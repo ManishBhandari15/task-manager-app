@@ -3,7 +3,7 @@
 A full-stack task management web application built with Python Flask and PostgreSQL.
 
 ## Live Demo
-[Coming soon - deploying to Render]
+https://task-manager-app-1-o2v4.onrender.com
 
 ## Features
 - Create tasks with title, description and priority level
