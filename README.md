@@ -1,6 +1,6 @@
 # Task Manager App
 
-A full-stack task management web application built with Python Flask and PostgreSQL.
+A full-stack task management web application built with Python, Flask and PostgreSQL.
 
 ## Live Demo
 https://task-manager-app-1-o2v4.onrender.com
@@ -21,7 +21,7 @@ https://task-manager-app-1-o2v4.onrender.com
 - **Version Control:** Git, GitHub
 - **Deployment:** Render
 
-## Installation and Setup
+
 
 ### Prerequisites
 - Python 3.13+
@@ -41,7 +41,7 @@ SECRET_KEY=yoursecretkey
 6. Run the application
 7. Open your browser and go to
    http://127.0.0.1:5000
-## Database Schema
+
 
 ### Tasks Table
 | Column | Type | Description |
